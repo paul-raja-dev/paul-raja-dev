@@ -5,33 +5,34 @@ AI & Data Science student focused on Python, databases, and Linux-based developm
 ---
 
 ## 🚀 About Me
-- 💻 Strong in Python fundamentals and problem solving
-- 🗄️ Hands-on with MySQL and Python–MySQL integration (mysqlclient)
-- 📊 Familiar with NumPy for data handling and computation
-- 🧠 Prefer clean logic, readable code, and structured thinking
-- 🐧 Comfortable working daily in a Linux environment
-- 📍 India
+- 💻 Strong in Python fundamentals and problem solving  
+- 🗄️ Hands-on with MySQL and Python–MySQL integration (mysqlclient)  
+- 📊 Familiar with NumPy for data handling and computation  
+- 🧠 Prefer clean logic, readable code, and structured thinking  
+- 🐧 Comfortable working daily in a Linux environment  
+- 📍 India  
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python, SQL  
-**Databases:** MySQL  
-**Libraries:** NumPy, mysqlclient  
-**Tools & Platforms:** Git, GitHub, Linux  
+- **Languages:** Python, SQL  
+- **Databases:** MySQL  
+- **Libraries:** NumPy, mysqlclient  
+- **Tools & Platforms:** Git, GitHub, Linux  
+
 ---
 
 ## 🛠️ Featured Work
-- Student Record Manager (Python + MySQL)  
-  → CLI-based system with CRUD operations and database integration  
-  → Focused on clean logic, validation, and structured queries
+- **Student Record Manager (Python + MySQL)**  
+  - CLI-based system with CRUD operations and database integration  
+  - Focused on clean logic, validation, and structured queries  
 
 ---
 
 ## 📈 Currently Working On
-- Data Structures & Algorithms
-- Learning Pandas for data analysis
-- Improving code quality and project structure
+- Data Structures & Algorithms  
+- Learning Pandas for data analysis  
+- Improving code quality and project structure  
 
 ---
 
