@@ -19,6 +19,12 @@ AI & Data Science student focused on Python, databases, and Linux-based developm
 **Databases:** MySQL  
 **Libraries:** NumPy, mysqlclient  
 **Tools & Platforms:** Git, GitHub, Linux  
+---
+
+## 🛠️ Featured Work
+- Student Record Manager (Python + MySQL)  
+  → CLI-based system with CRUD operations and database integration  
+  → Focused on clean logic, validation, and structured queries
 
 ---
 
