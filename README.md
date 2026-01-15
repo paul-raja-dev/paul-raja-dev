@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Paul Raja
 
-<!--
-**paul-raja-dev/paul-raja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student focused on Python, databases, and Linux-based development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Strong in Python fundamentals and problem solving
+- 🗄️ Hands-on with MySQL and Python–MySQL integration (mysqlclient)
+- 📊 Familiar with NumPy for data handling and computation
+- 🧠 Prefer clean logic, readable code, and structured thinking
+- 🐧 Comfortable working daily in a Linux environment
+- 📍 India
+
+---
+
+## 🧰 Tech Stack
+**Languages:** Python, SQL  
+**Databases:** MySQL  
+**Libraries:** NumPy, mysqlclient  
+**Tools & Platforms:** Git, GitHub, Linux  
+
+---
+
+## 📈 Currently Working On
+- Data Structures & Algorithms
+- Learning Pandas for data analysis
+- Improving code quality and project structure
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: paulraja.creator@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/paul-raja-dev/
