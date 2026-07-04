@@ -29,8 +29,6 @@ collaboration: Open Source Projects
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
-NumPy · Pandas
-
 **Databases & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" />
