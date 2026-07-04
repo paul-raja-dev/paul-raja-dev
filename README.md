@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Paul Raja</h1>
-
+<h1 align="center">Hi, I'm Paul Raja</h1>
+<h3 align="center">AI & Data Science student focused on Python, backend development, and Linux-based systems.</h3>
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Paul Raja
 role: Backend Developer
-location: India 🇮🇳
+location: India
 focus: Scalable Backend Architectures
 passion: Building robust systems
 learning: FastAPI & Cybersecurity
@@ -17,26 +17,28 @@ collaboration: Open Source Projects
 
 <br>
 
-## 🧰 Tech Stack & Skills
+## Tech Stack & Skills
 
-<p align="center">🚀 Languages</p>
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
-<p align="center">🛠️ Frameworks & Libraries</p>
+**Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,numpy" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
-<p align="center">🗄️ Databases & Tools</p>
+NumPy · Pandas
+
+**Databases & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" />
 </p>
 
 <br>
 
-## 🛠️ Featured Work
+## Featured Work
 
 **[Zero-Trust API Gateway](https://github.com/paul-raja-dev)** — Django
 - A reusable API gateway built on zero-trust security principles: no implicit trust for any request, regardless of origin
@@ -45,7 +47,7 @@ collaboration: Open Source Projects
 
 <br>
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: [paulraja.creator@gmail.com](mailto:paulraja.creator@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/paul-raja-dev](https://www.linkedin.com/in/paul-raja-dev/)
+- Email: [paulraja.creator@gmail.com](mailto:paulraja.creator@gmail.com)
+- LinkedIn: [linkedin.com/in/paul-raja-dev](https://www.linkedin.com/in/paul-raja-dev/)
