@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Paul Raja</h1>
-<h3 align="center">AI & Data Science student focused on Python, backend development, and Linux-based systems.</h3>
 
 <br>
 
@@ -19,17 +18,17 @@ collaboration: Open Source Projects
 
 ## Tech Stack & Skills
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
-**Frameworks & Libraries**
+<p align="center"><b>Frameworks & Libraries</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
-**Databases & Tools**
+<p align="center"><b>Databases & Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" />
 </p>
